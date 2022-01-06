@@ -1,0 +1,5 @@
+name: AutoTreeReplant
+version: ${project.version}
+main: com.yiorno.autotreereplant.AutoTreeReplant
+api-version: 1.18
+authors: [ yossy_zip ]
